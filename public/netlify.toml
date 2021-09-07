@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://61320ef4bac5dd1c36af3301--reactssowihtokta.netlify.app/callback?code"
+  to = "https://61320ef4bac5dd1c36af3301--reactssowihtokta.netlify.app?code"
+  status = 200
+  force = false
